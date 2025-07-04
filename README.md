@@ -41,4 +41,10 @@ The data were explored to get answers to some questions like:
  - 	What is the gender distribution across the organization – Distilled to regions and departments
  - 	HR performance rating based on gender
  - 	Gender pay gap in company's salary structure
+ - 	If Palmoria Group meets the minimum payment requirement of $90,000 for manufacturing companies
+ - 	The distribution of employees across different pay bands
+ - 	Based on the new requirement, how many employees are below the minimum payment
+ - 	Determining the bonus amount payable to each employee based on ratings
+ - 	Total amount to be paid to individual employees (salary inclusive)
+ - 	
   
