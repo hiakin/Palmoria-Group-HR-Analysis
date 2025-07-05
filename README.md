@@ -46,5 +46,5 @@ The data were explored to get answers to some questions like:
  - 	Based on the new requirement, how many employees are below the minimum payment
  - 	Determining the bonus amount payable to each employee based on ratings
  - 	Total amount to be paid to individual employees (salary inclusive)
- - 	
+ - 	Total amount to be paid out per region and company wide
   
