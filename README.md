@@ -48,3 +48,12 @@ The data were explored to get answers to some questions like:
  - 	Total amount to be paid to individual employees (salary inclusive)
  - 	Total amount to be paid out per region and company wide
   
+### Data Analysis - Insights/Recommendations
+
+-	There’s a slight gender imbalance across the departments at Abuja as compared to Lagos and Kano regions, but this is not significant enough to affect the operation. However, the HR can address this in future recruitment
+-	Cumulatively across the ratings, it is observed that the Female gender gets better performance ratings than the male. It means that more female might enjoy career growth and even get into management position faster than their male colleagues. This can further polarize the work environment in a company that is already battling with gender imbalance.
+- On the other hand, it could also mean a skill gap or competency deficiency from the male counterparts which will require the HR department to organize   some form of on-the-Job trainings/seminars needed for better performance
+- For the average salary, there’s no significant difference between both genders. It is still within reasonable amount. However, the average salary in certain departments like “**Supports**”, “**Product Management**”, “**Engineering**”, “**Sales**”, “**Legal**”, “**Human Resources**” and “**Research and Development**”, should be focused on, to maintain some balance
+- As for the minimum industry payment of $90,000, **Palmoria Group** didn’t meet up, as over 70% of the employees are under this threshold. Out of the **946** employees, only **292** are above the threshold of $90,000. The remaining **654**(70%) employees are below $90,000
+- Hence, the HR department and the management team need to address this as a matter of urgency to avoid sanctions from relevant regulatory bodies, as well as to show their level of compliance with the Industry approved standards.
+- This can also aid and facilitate their ease of expansion into other regions
